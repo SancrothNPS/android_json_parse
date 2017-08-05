@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9cca3fd16936553977a7f1346ef52955fa56b8e">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9acbec249f8197bf9f1cddf3f2f11057b69ca067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_fe6d6b2319913319b842c190bbf436225356ddc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_be1309e1269587087b903c233e0574086991a1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_a3c64407c34a2fd21299f4179073d14f43214349\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_c8c601480871f134a6220f2f69b059a2acbe8bcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_988d4541dd5d916cd3df293d165d614e2c67a84e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_97f34fc1b4a8b10f39d0604cdb67f360eec596ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_ce7b13f2cae50565f2629576355a5d61e752538c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_b831f1243e4ac7b89d05446036b95cf47a91871b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7711275f787a59e1ccf422bb1793512eab890579">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_841f9f754f19ac4619baca1e78c2f5fbd7760421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_6e808d6284eef337d262ab010c51cca216615a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_8c28ea5c986c266a3e8d77e1100e688dc921a6e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_5bcef38d481337c5444acc127ee5d85f47f552ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_7471af8df9cd1433567b28603400134d98ff1d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Sancroth\AndroidStudioProjects\FinalExamImageBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_105012e9066c19e31fd72334a10433341ed57de9\classes.dex" />
+    </item>
+
+</items>
