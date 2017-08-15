@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">FinalExamImageBrowser</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_search_tags">Search Tags</string>
+    <string name="title_activity_full_screen_img">Full Screen Image</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="browse_image_description">Downloaded Flickr Photo</string>
+    <string name="photo_tags_text">Tags: %s</string>
+    <string name="photo_title_text">Title: %s</string>
+    <string name="activity_search">Search</string>
+    <string name="searchable_hint">Enter possible photo tags</string>
+    <string name="empty_json">No photo matched your search.\\n\\nUse the search Icon to search for photos.</string>
 </resources>

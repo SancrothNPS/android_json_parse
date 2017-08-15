@@ -1,10 +1,14 @@
 package com.platsika.finalexamimagebrowser;
 
+import java.io.Serializable;
+
 /**
  * Created by Plats on 7/7/2017.
  */
 
-class Photo {
+class Photo implements Serializable{
+
+    private static final long serialV = 1L;
     private String mTitle;
     private String mAuthor;
     private String mAuthroId;
